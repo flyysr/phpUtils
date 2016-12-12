@@ -1,4 +1,5 @@
 <?php
+//原文：http://www.cnblogs.com/dormscript/p/6163774.html
 
 //业务需要：从数据库中读出字符串的php代码
 function mysql_get($id){
